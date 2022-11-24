@@ -1,0 +1,29 @@
+*{
+margin: 0%;
+padding: 0%;
+}
+
+.navegador{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    background-color: rgb(157, 61, 61);
+    color: white;
+    padding: 50px;
+    margin-top: 10px;
+}
+h1{
+    color: brown;
+}
+table {
+    border: solid 1px;
+    border-collapse: collapse;
+}
+th,
+td {
+    border: solid 1px;
+    padding: 10px;
+}
+.img-logos{
+    height: 400px;
+
+}
